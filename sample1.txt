@@ -1,0 +1,2 @@
+This is written using fwrite() function in php.
+This is the best file of the worldThis is appended to the file.
